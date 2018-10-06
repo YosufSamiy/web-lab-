@@ -1,0 +1,8 @@
+.w {
+	font-size: 50px;
+	height: 5000px;
+	 width: 1000px;
+	background-color: red;
+	background-image: url('img.png');
+	background-repeat:no-repeat;
+}

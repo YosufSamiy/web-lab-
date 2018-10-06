@@ -1,0 +1,15 @@
+ul{
+	list-style-type: disc;
+	list-style-position: inside;
+	list-style-image:url("img.png");
+}
+ul li
+ {
+ 	border:5px solid red;
+
+}
+.tttt
+ {
+ 	border:5px solid red;
+
+}

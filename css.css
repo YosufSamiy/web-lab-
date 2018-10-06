@@ -1,8 +1,8 @@
-.w {
-	font-size: 50px;
-	height: 5000px;
-	 width: 1000px;
-	background-color: red;
-	background-image: url('img.png');
-	background-repeat:no-repeat;
-}
+
+ .w:hover{
+ 	color: red;
+ 	text-decoration-line:line-through;
+ }
+ a:hover{
+ 	 	text-decoration-line:line-through;
+ }
